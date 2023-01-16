@@ -1,1 +1,1 @@
-# Website-Template1
+Basic template for a business website.
